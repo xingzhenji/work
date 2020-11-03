@@ -1,26 +1,13 @@
-本文章由**海外兔 (https://osjobs.net)** 撰写，我们团队有丰富的面试官经验，提供入职套餐，入职不成功不收费。详细信息请浏览**求职课程 (https://osjobs.net/co/)**
+## 吉星臻
+1994.09       电话：15210451127            微信：zhenzhi213 
+北京海淀       邮箱：907941319@qq.com        学历：硕士
 
-### 求职系列文章：
+## 教育背景
+### 2018.09 - 2020.07            Brunel University London            商业智能与社交媒体（硕士）
+- 主修：商业智能、社交媒体、BI与社媒专业顾问、移动，社媒与云服务、战略营销管理等；
+- 本专业为该校优秀专业，2020年QS世界排名51名。
 
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://osjobs.net/topk/" >国内大厂高频面试题</a>
 
-### 项目目录
-
-- 个人简介
-	- [简介](#通用简介)
-	- [前端](#前端简介)
-	- [移动端](#移动端简介)
-	- [后端](#后端简介)
-- 项目经验
-	- [通用](#通用经验)
-	- [前端](#前端经验)
-	- [后端](#后端经验)
-- 英文版本
-	- [简介](#summary)
-	- [项目经验](#project)
  
 ## 相关经历
 
