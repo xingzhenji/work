@@ -7,22 +7,24 @@
 
 
 ## 教育背景
-### 2018.09 - 2020.07          &nbsp;&nbsp;&nbsp;&nbsp;  Brunel University London （London）           [商业智能与社交媒体](https://github.com/xingzhenji/work/blob/gh-pages/毕业证.jpg)（[硕士](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg))
+### 2018.09 - 2020.07          &nbsp;&nbsp;&nbsp;&nbsp;  英国伦敦布鲁内尔大学 （伦敦）           [商业智能与社交媒体](https://github.com/xingzhenji/work/blob/gh-pages/毕业证.jpg)（[硕士](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg))
 - 主修：商业智能、社交媒体、BI与社媒专业顾问、移动，社媒与云服务、战略营销管理等；
+- 本校2020年QS世界排名332名、伦敦十大名校之一。
 - 本专业为该校优秀专业，2020年QS世界排名51名。
 
 
  
 ## 相关经历
 
-### 2020.4         &nbsp;&nbsp;&nbsp;&nbsp;[IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf) ([原文](https://github.com/xingzhenji/work/blob/gh-pages/原文%20IEEE论文.pdf))
+### 2020.4         &nbsp;&nbsp;&nbsp;&nbsp;2020年第五届数学与人工智能国际会议 &nbsp;&nbsp;&nbsp;&nbsp; [IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf) ([原文](https://github.com/xingzhenji/work/blob/gh-pages/原文%20IEEE论文.pdf))
 
 - 数据增强对于多轮对话任务的提高
-- 项目描述：结合知识图谱与文本数据增强提高了多伦对话主题切换的平滑性
+- 项目描述：结合知识图谱与文本数据增强提高了多轮对话主题切换的平滑性
 - 项目贡献：结合命名体识别，短文本匹配，损失正则构建鲁棒性强的知识选择模块，提高了知识图谱在对话系统的应用。
-- 主要负责：组织项目，任务分配
+- 主要负责：文本数据收集整理及特征抽取
 
-### 2019.9-2020.3               &nbsp;&nbsp;&nbsp;&nbsp;[Labait公司（London）](http://www.labaitpro.co.uk)      （[实习证明](https://github.com/xingzhenji/work/blob/gh-pages/实习证明.jpg )）
+
+### 2019.9-2020.3               &nbsp;&nbsp;&nbsp;&nbsp;[英国Labait公司（伦敦）](http://www.labaitpro.co.uk)      （[实习证明](https://github.com/xingzhenji/work/blob/gh-pages/实习证明.jpg )）
 
 - 协助公司注册信息在税务局网站上
 - 协助公司准备核算工资单并且提供到税务局
