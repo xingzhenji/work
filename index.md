@@ -15,7 +15,7 @@
  
 ## 相关经历
 
-### 2020.4    IEEE论文
+### 2020.4               [IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf)
 
 - 数据增强对于多轮对话任务的提高
 - 项目描述：结合知识图谱与文本数据增强提高了多伦对话主题切换的平滑性
