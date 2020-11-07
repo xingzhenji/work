@@ -7,7 +7,7 @@
 
 
 ## 教育背景
-### 2018.09 - 2020.07          &nbsp;&nbsp;&nbsp;&nbsp;  Brunel University London （London）           [商业智能与社交媒体（硕士）](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg )
+### 2018.09 - 2020.07          &nbsp;&nbsp;&nbsp;&nbsp;  Brunel University London （London）           [商业智能与社交媒体](https://github.com/xingzhenji/work/blob/gh-pages/毕业证.jpg)（[硕士](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg))
 - 主修：商业智能、社交媒体、BI与社媒专业顾问、移动，社媒与云服务、战略营销管理等；
 - 本专业为该校优秀专业，2020年QS世界排名51名。
 
