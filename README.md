@@ -41,7 +41,7 @@
 ## 技能水平
 
 - SAS初级证书，熟练使用Spss及各种MS office软件；
-- 具备两年英国留学经验，优秀的英语听说读写能力，能做工作用语；短暂学习过日语和法语。
+- 具备两年英国留学经验，优秀的英语听说读写能力，能做工作用语；短暂学习过日语和法语；
 - 大学期间收获数学建模比赛三等奖。
 - 研究生期间发表一篇IEEE论文于期刊：International Journal of Mechanical engineering and Robotics Research
 
