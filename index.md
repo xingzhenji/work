@@ -87,7 +87,7 @@
 
 - SAS初级证书，熟练使用Spss及各种MS office软件；
 - 具备两年英国留学经验，优秀的英语听说读写能力，能做工作用语；短暂学习过日语和法语。
-- 大学期间收获数学建模比赛三等奖。
+- 大学期间收获[数学建模比赛三等奖](https://github.com/xingzhenji/work/blob/gh-pages/扫描.png)。
 - 研究生期间发表一篇IEEE论文（Improved Multi-Round Chatbot using Data Augmentations and Loss Regularization）于期刊：International Journal of Mechanical engineering and Robotics Research
 
 ## 自我评价
