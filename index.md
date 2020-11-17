@@ -16,7 +16,7 @@
 - 参与北京语言大学合作项目，主修法语。
 ### 2015.02 - 2015.08          &nbsp;&nbsp;&nbsp;&nbsp;  台湾龙华科技大学（新北市）    
 - 大学时期到台湾做交换生（2015），主修：品牌经营、品牌管理、统计学、专案企划事务、专案管理、金融创新、日语等。
-
+### 2013.9 - 2017.07          &nbsp;&nbsp;&nbsp;&nbsp;  北京联合大学（北京） 会计
 ## 项目经验
 ### 2020.4-2020.7 北京庆丰包子铺数据分析及销量提升（沙河店）
 - 项目内容: &nbsp;&nbsp;&nbsp;&nbsp;疫情下的实体餐饮业销售如何走出困局
@@ -41,7 +41,7 @@
 - 项目内容: &nbsp;&nbsp;&nbsp;&nbsp;开创淘宝店并达到专项领域销量第一
 
 - 项目描述:
- &nbsp;&nbsp;&nbsp;&nbsp;结合启动资金、行业调查确定产品选型、受众人群。选定毛绒玩具作为销售产品，分析竞品后，决定先以低价销售、增加关键字，提升店铺曝光率，吸引客流量，短短3个月内，就将店铺从1星做到5星，并积累了过万得用户量，交易流水达到10W，后发现很多店铺在模仿抄袭，并对顾客进行调查后，决定改变经营策略，增加产品稀有度，提高产品质量，做个店铺个性化差异。短短一年内，成为日本san-x、三丽鸥，在国内重要的销售伙伴，一度影响到市场价格波动。
+ &nbsp;&nbsp;&nbsp;&nbsp;结合启动资金、行业调查确定产品选型、受众人群。选定毛绒玩具作为销售产品，分析竞品后，决定先以低价销售、增加关键字，提升店铺曝光率，吸引客流量，短短1个月内，就将店铺从1星做到5星，并积累了过万得用户量，交易流水达到10W，后发现很多店铺在模仿抄袭，并对顾客进行调查后，决定改变经营策略，增加产品稀有度，提高产品质量，做个店铺个性化差异。短短一年内，成为日本san-x、三丽鸥，在国内重要的销售伙伴，一度影响到市场价格波动。
 - 营销决策：
 - 负责从日本进货，通过竞店、竞品跟踪分析，实现成本降低40%；
 - 负责店铺日常运营数据统计和分析，通过使用Excel、Spss等软件，实现数据可视化，发现并解决问题；
@@ -78,9 +78,9 @@
 ## 技能水平
 
 - SAS初级证书，熟练使用Spss及各种MS office软件；
--  cccccccccccccccccccccccccccccccccccccccccccccswaqqqqqqqqqqqqqqqq短暂学习过日语和法语。
 - 大学期间收获[数学建模比赛三等奖](https://github.com/xingzhenji/work/blob/gh-pages/扫描.png)。
 - 研究生期间发表一篇[IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf)（Improved Multi-Round Chatbot using Data Augmentations and Loss Regularization）于期刊：International Journal of Mechanical engineering and Robotics Research
+- 短暂学习过日语和法语。
 
 ## 自我评价
  
