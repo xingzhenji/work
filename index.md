@@ -7,10 +7,39 @@
 
 
 ## 教育背景
-### 2018.09 - 2020.07          &nbsp;&nbsp;&nbsp;&nbsp;  Brunel University 英国伦敦布鲁内尔大学 （伦敦）           [商业智能与社交媒体](https://github.com/xingzhenji/work/blob/gh-pages/毕业证.jpg)（[硕士](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg))
+### 2018.09 - 2020.09         &nbsp;&nbsp;&nbsp;&nbsp;  Brunel University 英国伦敦布鲁内尔大学 （伦敦）           [商业智能与社交媒体](https://github.com/xingzhenji/work/blob/gh-pages/毕业证.jpg)（[硕士](https://github.com/xingzhenji/work/blob/gh-pages/大使馆学位证明.jpg))
 - 主修：商业智能、社交媒体、BI与社媒专业顾问、移动，社媒与云服务、战略营销管理等
 - 本校2020年QS世界排名332名、伦敦十大名校之一
 - 本专业为该校优秀专业，2020年QS世界排名51名
+
+### 2013.09 - 2017.07          &nbsp;&nbsp;&nbsp;&nbsp;  北京联合大学 （伦敦）会计       
+
+
+## 相关经历
+
+### 2020.4         &nbsp;&nbsp;&nbsp;&nbsp;2020年第五届数学与人工智能国际会议 &nbsp;&nbsp;&nbsp;&nbsp; [IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf) ([原文](https://github.com/xingzhenji/work/blob/gh-pages/原文%20IEEE论文.pdf))
+
+- 数据增强对于多轮对话任务的提高
+- 项目描述：&nbsp;&nbsp;&nbsp;&nbsp;结合知识图谱与文本数据增强提高了多轮对话主题切换的平滑性。
+- 项目贡献：&nbsp;&nbsp;&nbsp;&nbsp;结合命名体识别，短文本匹配，损失正则构建鲁棒性强的知识选择模块，提高了知识图谱在对话系统的应用。
+- 主要负责：&nbsp;&nbsp;&nbsp;&nbsp;用SQL做文本数据收集整理及特征抽取。
+
+
+### 2019.9-2020.3               &nbsp;&nbsp;&nbsp;&nbsp;[英国Labait会计师事务所（伦敦）](http://www.labaitpro.co.uk)      （[实习证明](https://github.com/xingzhenji/work/blob/gh-pages/实习证明.jpg )）
+
+
+- 用公司软件记录公司出入账单流水并整理出有用数据提供给运营部门。
+- 协助公司注册信息在税务局网站上。
+- 协助公司准备核算工资单并且提供到税务局。
+- 协助公司HR主管做一些工作上的调动。
+
+
+### 2013.11-2015.06    &nbsp;&nbsp;&nbsp;&nbsp;北京联合大学社团联合会主席团   主任 部长
+
+- 负责活动策划和组织，跟进活动主题，负责资源管理，带领干事完成各项活动，活动累计参与人数2000+人。
+- 负责招新工作，准备招新海报及其他物料的设计，负责新成员的面试，维持社团人事稳定，支持社团日常的活动开展。
+- 负责两次活动的赞助拉拢，通过收集校内外信息，了解商家意愿，策划谈判方案，共获经费20k+元，实现活动圆满成功。
+
 
 
 ## 项目经验
@@ -39,38 +68,16 @@
 - 营销决策：&nbsp;&nbsp;&nbsp;&nbsp;负责从日本进货，通过竞店、竞品跟踪分析，实现成本降低40%。负责店铺日常运营数据统计和分析，通过使用Excel、Spss等软件，实现数据可视化，发现并解决问题。负责客服，通过学习营销话术，引导客户购买，实现业绩提升，客户好评率100%。负责店铺推广工作，通过商品详情和海报优化，淘宝直通车、淘客等推广，配合社交媒体平台（贴吧，咸鱼等）的个人推广，实现月利润提升高达500%。积极参与淘宝活动报名，负责策划店铺双十一、双十二等活动，日收入增长比平日高达3倍。
 
 
-## 相关经历
 
-### 2020.4         &nbsp;&nbsp;&nbsp;&nbsp;2020年第五届数学与人工智能国际会议 &nbsp;&nbsp;&nbsp;&nbsp; [IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf) ([原文](https://github.com/xingzhenji/work/blob/gh-pages/原文%20IEEE论文.pdf))
-
-- 数据增强对于多轮对话任务的提高
-- 项目描述：&nbsp;&nbsp;&nbsp;&nbsp;结合知识图谱与文本数据增强提高了多轮对话主题切换的平滑性。
-- 项目贡献：&nbsp;&nbsp;&nbsp;&nbsp;结合命名体识别，短文本匹配，损失正则构建鲁棒性强的知识选择模块，提高了知识图谱在对话系统的应用。
-- 主要负责：&nbsp;&nbsp;&nbsp;&nbsp;文本数据收集整理及特征抽取。
-
-
-### 2019.9-2020.3               &nbsp;&nbsp;&nbsp;&nbsp;[英国Labait公司（伦敦）](http://www.labaitpro.co.uk)      （[实习证明](https://github.com/xingzhenji/work/blob/gh-pages/实习证明.jpg )）
-
-- 协助公司注册信息在税务局网站上。
-- 协助公司准备核算工资单并且提供到税务局。
-- 用公司软件记录公司出入账单流水。
-- 协助公司HR主管做一些工作上的调动。
-
-
-### 2013.11-2015.06    &nbsp;&nbsp;&nbsp;&nbsp;北京联合大学社团联合会主席团   主任 部长
-
-- 负责活动策划和组织，跟进活动主题，负责资源管理，带领干事完成各项活动，活动累计参与人数2000+人。
-- 负责招新工作，准备招新海报及其他物料的设计，负责新成员的面试，维持社团人事稳定，支持社团日常的活动开展。
-- 负责两次活动的赞助拉拢，通过收集校内外信息，了解商家意愿，策划谈判方案，共获经费20k+元，实现活动圆满成功。
 
 
 ## 技能水平
 
-- SAS初级证书，熟练使用Spss及各种MS office软件
+- SAS初级证书，熟练使用Spss，SQL及各种MS office软件
 - 大学期间收获[数学建模比赛三等奖](https://github.com/xingzhenji/work/blob/gh-pages/扫描.png)
 - 研究生期间发表一篇[IEEE论文](https://github.com/xingzhenji/work/blob/gh-pages/IEEE证明.pdf)（Improved Multi-Round Chatbot using Data Augmentations and Loss Regularization）于期刊：International Journal of Mechanical engineering and Robotics Research
 - 短暂学习过日语和法语
 
 ## 自我评价
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;留学经验培养了良好的独立能力，与外国友人之间的沟通，交流能力，同时也培养了团队合作精神，自我动手实践能力和学以致用的能力。此外，个人素质修养也得到了很大提升，留学期间还前往了意大利比利时塞尔维亚等国家，开拓了国际视野。大学时候作为交换生到台湾，也让我了解到与北方不一样的文化。我觉得自己是个很有责任心，个性乐观，敢于面对困难与挑战，积极进去，适应能力较强的人。同时也很注重自我能力的提升，学习python计算机语言，新闻传播学，有勇气有担当。私下爱好广泛，中央音乐学院钢琴八级。喜欢钻研中国古代文化并尝试结合到自己的专业里面。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从小学习乐器（钢琴，古筝，小提琴），考取中央音乐学院钢琴八级证书。喜欢钻研数据和音乐。大学时候作为交换生到台湾，也让我了解到与北方不一样的文化。我觉得自己是个很有责任心，个性乐观，敢于面对困难与挑战，积极进去，适应能力较强的人。同时也很注重自我能力的提升，学习python计算机语言，新闻传播学，有勇气有担当。私下爱好广泛，喜欢钻研中国古代文化并尝试结合到自己的专业里面。
